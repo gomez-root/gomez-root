@@ -21,6 +21,6 @@
         <b>Tech Toolkit</b>
     </h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,mysql,neovim,docker" />
     </a>
 </div>
