@@ -3,8 +3,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img src="Tan and Black Minimalist Digital Product Mockup Bundle Facebook Ad (1581 x 515 px).png" alt="banner that says Ismael Gómez Developer in progress"></img>
-
 <p>
     <h2>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcydHd5eHM4ajIwZ3ZtdzloeDY3Mzd3YW51eG10eHo5cnltbnptMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="30px" alt="About Me Icon" />
