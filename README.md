@@ -18,9 +18,10 @@
 <br />
 
 <div>
-    <h2>
-        <b>Technologies</b> 🚀
-    </h2>
+    <h1>
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30px" />
+        <b>Technologies</b>
+    </h1>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
     </a>
