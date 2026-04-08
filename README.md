@@ -19,7 +19,7 @@
 
 <div>
     <h1>
-        <img src="[https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif](https://emojiterra.com/data/animated-emoji/2699.gif)" width="30px" />
+        <img src="https://emojiterra.com/data/animated-emoji/2699.gif" width="30px" />
         <b>Technologies</b>
     </h1>
     <a href="https://skillicons.dev">
