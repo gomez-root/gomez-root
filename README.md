@@ -15,13 +15,11 @@
     </p>
 </div>
 
-<br />
-
 <div>
-    <h1>
+    <h2>
         <img src="https://emojiterra.com/data/animated-emoji/2699.gif" width="30px" />
-        <b>Technologies</b>
-    </h1>
+        <b>Tech Toolkit</b>
+    </h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
     </a>
