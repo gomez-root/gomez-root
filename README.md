@@ -11,7 +11,7 @@
         &nbsp;<b>About me</b>
     </h2>
     <p>
-        Aspiring Computer Engineer and Linux enthusiast currently learning through open-source projects and specialized courses.
+        Computer Engineer and Linux enthusiast currently learning through open-source projects and specialized courses.
     </p>
 </div>
 
